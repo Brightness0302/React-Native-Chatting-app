@@ -3,7 +3,7 @@
 ## Setup
 1. Git clone
 ```
-git clone https://github.com/Brightness0302/Channelize-React-Native-Redux-Chat
+git clone https://github.com/Brightness0302/React-Native-Chatting-app
 ```
 
 2. Install React Native CLI
